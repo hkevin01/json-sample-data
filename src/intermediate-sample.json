@@ -1,0 +1,7 @@
+{
+  "type": "grouped-bar",
+  "data": [
+    { "group": "2024", "values": [ { "label": "A", "value": 10 }, { "label": "B", "value": 15 } ] },
+    { "group": "2025", "values": [ { "label": "A", "value": 12 }, { "label": "B", "value": 18 } ] }
+  ]
+}
